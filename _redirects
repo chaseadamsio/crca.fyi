@@ -8,6 +8,8 @@
 /src/caos https://github.com/chaseadamsio/chaseonsoftware.com 301
 /src/caos/pr/* https://github.com/chaseadamsio/chaseonsoftware.com/pull/:splat 301
 
+/code/neon-night https://marketplace.visualstudio.com/items?itemName=chaseadamsio.vscode-theme-neon-night 301
+
 http://rca.im/* https://rca.im/:splat 301
 
 /* https://chaseonsoftware.com/:splat 301
