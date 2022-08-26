@@ -6,19 +6,14 @@
 
 /user-guide https://www.notion.so/chaseadamsio/User-Guide-7333f9546e9d4f17912e799ae5fe5114
 /distributed-teams https://medium.com/walmartlabs/we-are-distributed-4c64ec6109f4
-/docker/port-fail https://chaseignited.com/notes_to_self/docker_failed_port_allocation/ 301
-/docker/perm-deny https://chaseignited.com/notes_to_self/permission_denied_entrypoint/ 301
-/docker/alpine-sh https://chaseignited.com/notes_to_self/exec_user_process_docker/ 301
-/caos/pr/* https://github.com/chaseadamsio/chaseonsoftware.com/pull/:splat 301
-/src https://github.com/chaseadamsio/rca.im 301
-/src/caos https://github.com/chaseadamsio/chaseonsoftware.com 301
-/src/caos/pr/* https://github.com/chaseadamsio/chaseonsoftware.com/pull/:splat 301
-
+/docker/port-fail https://curiouslychase.com/notes_to_self/docker_failed_port_allocation/ 301
+/docker/perm-deny https://curiouslychase.com/notes_to_self/permission_denied_entrypoint/ 301
+/docker/alpine-sh https://curiouslychase.com/notes_to_self/exec_user_process_docker/ 301
+/gh https://github.com/curiouslychase
+/tw https://twitter.com/curiouslychase
 
 /code/neon-night https://marketplace.visualstudio.com/items?itemName=chaseadamsio.vscode-theme-neon-night 301
 
-http://caio.im/* https://caio.im/:splat 301
-
-/* https://chaseignited.com/:splat 301
+/* https://curiouslychase.com/:splat 301
 
 
