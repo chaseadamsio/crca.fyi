@@ -1,14 +1,15 @@
 / https://curiouslychase.com
 /find-time https://calendly.com/curiouslychase/chat 302
-
 /notes-in-notion https://www.notion.so/chaseadamsio/Why-I-use-Notion-for-Taking-Notes-1c65ce8f24a54711a27969bbc28a31a7
 /writing-is-hard https://www.notion.so/chaseadamsio/Why-I-struggle-with-writing-and-what-I-m-doing-about-it-2ad828f32d05499e81f8a9083584e5ca
 
 /user-guide https://www.notion.so/chaseadamsio/User-Guide-7333f9546e9d4f17912e799ae5fe5114
 /distributed-teams https://medium.com/walmartlabs/we-are-distributed-4c64ec6109f4
-/docker/port-fail https://curiouslychase.com/notes_to_self/docker_failed_port_allocation/ 301
-/docker/perm-deny https://curiouslychase.com/notes_to_self/permission_denied_entrypoint/ 301
-/docker/alpine-sh https://curiouslychase.com/notes_to_self/exec_user_process_docker/ 301
+/docker/port-fail https://curiouslychase.com/posts/docker_failed_port_allocation/ 301
+/docker/perm-deny https://curiouslychase.com/posts/permission_denied_entrypoint/ 301
+/docker/alpine-sh https://curiouslychase.com/posts/exec_user_process_docker/ 301
+/philosophies https://curiouslychase.com/posts/philosophies 301
+
 /gh https://github.com/curiouslychase
 /tw https://twitter.com/curiouslychase
 
