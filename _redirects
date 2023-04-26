@@ -8,7 +8,8 @@
 /docker/port-fail https://curiouslychase.com/posts/docker_failed_port_allocation/ 301
 /docker/perm-deny https://curiouslychase.com/posts/permission_denied_entrypoint/ 301
 /docker/alpine-sh https://curiouslychase.com/posts/exec_user_process_docker/ 301
-/philosophies https://curiouslychase.com/posts/philosophies 301
+/philosophies https://curiouslychase.com/posts/philosophies/ 301
+/about https://curiouslychase.com/about/ 301
 
 /gh https://github.com/curiouslychase
 /tw https://twitter.com/curiouslychase
