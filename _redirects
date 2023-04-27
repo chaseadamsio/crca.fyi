@@ -11,9 +11,9 @@
 /philosophies https://curiouslychase.com/posts/philosophies/ 301
 /about https://curiouslychase.com/about/ 301
 
-/gh https://github.com/curiouslychase
-/tw https://twitter.com/curiouslychase
-
+/gh https://github.com/curiouslychase 301
+/tw https://twitter.com/curiouslychase 301
+/nl https://curiouslychase.substack.com 301
 /code/neon-night https://marketplace.visualstudio.com/items?itemName=chaseadamsio.vscode-theme-neon-night 301
 
 /* https://curiouslychase.com/:splat 301
