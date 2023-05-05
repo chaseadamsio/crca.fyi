@@ -18,6 +18,6 @@
 /nl https://curiouslychase.substack.com 301
 /code/neon-night https://marketplace.visualstudio.com/items?itemName=chaseadamsio.vscode-theme-neon-night 301
 
+/loom/* https://www.loom.com/share/:splat 301
+
 /* https://curiouslychase.com/:splat 301
-
-
